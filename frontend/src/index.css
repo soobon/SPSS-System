@@ -1,0 +1,35 @@
+.dashboard-card {
+  transition: all 0.3s ease;
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.dashboard h1 {
+  color: #333;
+  font-weight: 700;
+}
+
+.dashboard .card-title {
+  color: #555;
+  font-weight: 600;
+}
+
+.dashboard h3 {
+  font-weight: 700;
+  color: #0d6efd;
+}
+
+.dashboard .text-muted {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .dashboard .row > div {
+    margin-bottom: 1rem;
+  }
+}
