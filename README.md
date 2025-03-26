@@ -1,6 +1,6 @@
 # Hệ thống In ấn Thông minh cho Sinh viên tại Trường Đại học Bách Khoa TP.HCM (HCMUT-SSPS)
 
-**Deployment:** [https://ssps-fe-student.vercel.app/login](https://ssps-fe-student.vercel.app/login)
+**Deployment:** [https://ssps-fe-student.vercel.app](https://ssps-fe-student.vercel.app)
 
 **Test account:**  
 - **Username:** `user1`  
