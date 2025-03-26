@@ -31,3 +31,8 @@ Hệ thống cung cấp:
 - **Tiện lợi**: Máy in đặt tại các tòa nhà học tập, giảm thời gian di chuyển.
 - **Linh hoạt**: Cho phép in từ xa, đặt lịch in và sử dụng ngoài giờ hành chính.
 - **Thân thiện với người dùng**: Giao diện dễ sử dụng, tích hợp liền mạch với các dịch vụ của trường.
+
+## Công nghệ sử dụng
+- **Frontend**: ReactJS, TailwindCSS
+- **Backend**: Spring Boot, Spring Data JPA, JWT, WebSocket, Spring Security, Java 
+- **Cơ sở dữ liệu**: Azure Database for MySQL 
