@@ -1,5 +1,7 @@
 # Hệ thống In ấn Thông minh cho Sinh viên tại Trường Đại học Bách Khoa TP.HCM (HCMUT-SSPS)
 
+**Backend Repository:** [https://github.com/soobon/SE_spss_backend](https://github.com/soobon/SE_spss_backend)
+**Frontend Repository:** [https://github.com/soobon/SSPS_fe_student](https://github.com/soobon/SSPS_fe_student)
 **Deployment:** [https://ssps-fe-student.vercel.app](https://ssps-fe-student.vercel.app)
 
 **Test account:**  
